@@ -1,3 +1,8 @@
 #!/usr/bin/env python3
 
-print('1024 * 768 =',1024 * 768)
+# print absolute value of an integer:
+a = -2.26
+if a >= 0:
+    print(a)
+else:
+    print(-a)
